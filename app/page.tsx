@@ -13,9 +13,9 @@ const projects = [
     description: 'Skin Disease Detection System', 
     image: '/skinv2.jpg', 
     category: ['Web', 'Mobile'], 
-    githubLink: 'https://github.com/RusiriniWijethunga/POMO-Figma-Plugin',
+    githubLink: 'https://github.com/ShankaVisal/SkinVision',
     figmaLink: 'https://www.figma.com/design/ZcxYV5Jn4Z08e1qJkrruY2/Derma-AI?node-id=283-780&t=fO9C3E9QPmLKnIQi-1', 
-    websiteLink: 'https://www.example1.com' 
+    websiteLink: 'https://youtu.be/GxwQguiUoYA?si=iAhNZNYzrRpfYM49' 
   },
   { 
     id: 2, 
@@ -24,8 +24,8 @@ const projects = [
     image: '/sujcss.jpg', 
     category: ['Web', 'Design'], 
     githubLink: 'https://github.com/Tharindu-Lakmal/SUJCS_Web_Project',
-    figmaLink: 'https://www.figma.com/design/7xmkVYucZaQ8oGNapqmchB/SUJCS-Project?node-id=0-1&t=yc0Rb68eW5VRRuiY-1', 
-    websiteLink: 'https://www.example2.com' 
+    figmaLink: 'https://www.figma.com/design/7xmkVYucZaQ8oGNapqmchB/SUJCS-Project?node-id=0-1&t=yc0Rb68eW5VRRuiY-1'
+
   },
   { id: 3, title: 'E-Cycle Zone', description: 'Bicycle Mart for US Audience', image: '/cycle.png', category: ['Web'], websiteLink: 'https://www.ecyclezone.com/' },
   { id: 4, title: 'Smart Lottery Scanner', description: 'Lottery Result Holder', image: '/lotttery.jpg', category: ['Mobile', 'Design'], githubLink: 'https://github.com/sumira/lottery-scanner-app', figmaLink: 'https://www.figma.com/design/20DX6KwuUUcUGWYdQM1Tiz/Smart-Lottery-scanner?node-id=1-2&t=V5LviAw92HMdbOzj-1', },
@@ -184,6 +184,7 @@ export default function Home() {
                         <i className="fas fa-external-link-alt fa-lg"></i>
                       </a>
                     )}
+                    
                   </div>
                 </div>
               </motion.div>

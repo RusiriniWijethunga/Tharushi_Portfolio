@@ -244,8 +244,8 @@ export default function Gallery() {
           {/* Footer Text */}
           <p className="text-sm">
             Copyright ©2025 All rights reserved | This template is made with{' '}
-            <span className="text-purple-400">❤</span> by{' '}
-            <span className="font-cursive">miss.Wijethunga</span>
+            <span className="text-green-400">❤</span> by{' '}
+            <span className="font-cursive">Tharushi Wijethunga</span>
           </p>
         </div>
       </footer>
